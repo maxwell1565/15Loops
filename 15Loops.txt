@@ -1,0 +1,62 @@
+//Write 15 for loops here.
+
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
+for (int i = 0; i <5; i++)
+{
+    Console.WriteLine($"i");
+}
